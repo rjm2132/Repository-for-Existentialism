@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> 
+  <head> 
+    <title> Do you want to die? Do you like dying? </title>
+    <style> 
+      body {margin: 3em;
+       background-color: blueviolet; }
+       nav {background-color}: red;
+       text align: center;
+       padding: 20px; }
+      h1 {color: red; }
+      h2 {color: blueviolet; }
+      image {width: 25%; }
+    </style>
+  </head>
+  <body> 
+  <nav>
+  <a href= "Kierkegaard">Kierkegaard</a> //
+  <a href= "OK">OK</a>
+   <h1>Hello at last, world!</h1>
+   <p> "Do it or don't do it, you'll regret both." 
+    That's Kierkegaard, by the way</p>
+    <p> I doubt anyone really cares anymore </p>
+    <img src = "https://images.unsplash.com/photo-1508265802264-937da5e9cc81?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"/>
+<section> 
+    <h2> Existentialism for you, madam? </h2>
+    <p> It's not to everyone's taste, certainly </p>
+    <img src = "https://images.unsplash.com/photo-1529938762753-914127886a7a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1051&q=80" />
+    <p>OK. <a href = "https://plato.stanford.edu/entries/existentialism/" </a>Here's a link so you can really do your head in</p>
+</section>
+  <body>
+  <git remote add origin https://github.com/rjm2132/Repository-for-Existentialism.git
+git branch -M main
+git push -u origin main>
+</html>
